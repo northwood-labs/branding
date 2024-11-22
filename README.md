@@ -51,7 +51,10 @@ The _Northwood Labs_ text is set in _Futura Bold_.
 This is used when we want something full-featured and splashy. This the _most official_ version.
 
 <div align="center">
-  <img src="NWL-Full-Vertical-Color-Reversible.svg" width="500">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="NWL-Full-Vertical-Color-Inverted.svg" width="500">
+    <img src="NWL-Full-Vertical-Color-Reversible.svg" width="500">
+  </picture>
 </div>
 
 ### Simplified (Vertical)
