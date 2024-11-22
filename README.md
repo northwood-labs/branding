@@ -62,7 +62,10 @@ This is used when we want something full-featured and splashy. This the _most of
 This is used when we don't want as much splash. We drop the decorative symbols and text from around the circled tree.
 
 <div align="center">
-  <img src="NWL-Simplified-Vertical-Color-Reversible.svg" width="400">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="NWL-Simplified-Vertical-Color-Inverted.svg" width="400">
+    <img src="NWL-Simplified-Vertical-Color-Reversible.svg" width="400">
+  </picture>
 </div>
 
 ### Simplified (Horizontal)
@@ -70,7 +73,10 @@ This is used when we don't want as much splash. We drop the decorative symbols a
 This is used when the vertical version doesn't make sense. Changes from the _Simplified (Vertical)_ version move the text up to the right of the icon, and "Labs" is shifted to the right edge. This also gives the logo a silhouette of a key. (We initially made the mistake of moving it to the left, and it had the silhouette of a penis.)
 
 <div align="center">
-  <img src="NWL-Simplified-Horizontal-Color-Reversible.svg" width="700">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="NWL-Simplified-Horizontal-Color-Inverted.svg" width="700">
+    <img src="NWL-Simplified-Horizontal-Color-Reversible.svg" width="700">
+  </picture>
 </div>
 
 ### Bug-only
@@ -78,7 +84,10 @@ This is used when the vertical version doesn't make sense. Changes from the _Sim
 This is used when we just need a square-ish visual indicator. We strip away the text below the bug, and remove the circle from around the tree. (We found that at smaller sizes, the circle was visually distracting and didn't add anything.)
 
 <div align="center">
-  <img src="NWL-Simplified-Bug-NoCirc-Color-Reversible.svg" width="300">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="NWL-Simplified-Bug-NoCirc-Color-Inverted.svg" width="300">
+    <img src="NWL-Simplified-Bug-NoCirc-Color-Reversible.svg" width="300">
+  </picture>
 </div>
 
 ### Gravatar
