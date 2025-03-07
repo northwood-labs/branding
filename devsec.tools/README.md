@@ -13,19 +13,13 @@ The _devsec.tools_ text is set in _Inter Display, Semibold_.
 ### Vertical
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dst-vertical-dark-mostly-white-transparent.svg" width="400">
-    <img src="dst-vertical-light-mostly-black-transparent.svg" width="400">
-  </picture>
+  <img src="dst-vertical-reversible-transparent.svg" width="400">
 </div>
 
 ### Horizontal
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dst-horizontal-dark-mostly-white-transparent.svg" width="700">
-    <img src="dst-horizontal-light-mostly-black-transparent.svg" width="700">
-  </picture>
+  <img src="dst-horizontal-reversible-transparent.svg" width="700">
 </div>
 
 ### Bug-only
