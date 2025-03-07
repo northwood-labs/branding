@@ -6,7 +6,7 @@ A public brand-usage guide will come in the future.
 
 ## Typeface
 
-The _devsec.tools_ text is set in _Inter Display, Semibold_.
+The _devsec.tools_ text is set in _Inter Display, Semibold_. ([Download Inter](https://rsms.me/inter/))
 
 ## Styles
 
